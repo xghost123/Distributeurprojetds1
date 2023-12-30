@@ -15,3 +15,6 @@ Le programme simule l'impression d'un ticket avec un montant de retrait prédéf
 •	Afficher les Soldes: 
 Les utilisateurs peuvent choisir l'option de voir les soldes actuels du distributeur automatique et du client.
 Le programme affiche les soldes actuels.
+
+
+# Realise par Khalil Chair
